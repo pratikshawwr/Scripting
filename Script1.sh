@@ -5,6 +5,5 @@ echo "Welcome to the Young Minds"
 echo "Hello team, we are learning branching"
 echo "Today we are learning Git commands"
 echo "We are creating a new branch"
-echo "Each developer can work on their own branch"
-echo "We can make changes without affecting the main branch"
-
+echo "We are also learning how to resolve merge conflicts"
+echo "Keep learning and keep practicing Git"
