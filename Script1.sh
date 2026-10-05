@@ -9,5 +9,3 @@ echo "Each developer can work on their own branch"
 echo "We can make changes without affecting the main branch"
 echo "After testing, we can merge our changes"
 echo "Git helps us track our code changes"
-echo "We are learning commit and push commands"
-
