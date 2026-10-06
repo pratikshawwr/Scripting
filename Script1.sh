@@ -6,4 +6,6 @@ echo "Hello team, we are learning branching"
 echo "Today we are learning Git commands"
 echo "We are creating a new branch"
 echo "We are also learning how to resolve merge conflicts"
-echo "Keep learning and keep practicing Git"
+echo "Hello team, we are learning git rebase"
+echo "Today we are learning Git rebase command in practical way"
+
