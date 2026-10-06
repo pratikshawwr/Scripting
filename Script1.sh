@@ -8,4 +8,3 @@ echo "We are creating a new branch"
 echo "We are also learning how to resolve merge conflicts"
 echo "Hello team, we are learning git rebase"
 echo "Today we are learning Git rebase command in practical way"
-
